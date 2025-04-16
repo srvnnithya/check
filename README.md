@@ -23,16 +23,16 @@ Our solution emphasizes **usability**, **trust**, and **clarity**, ensuring user
 ## 🎯 Objective  
 To build a functional and aesthetically pleasing financial web application with:
 
-- 🔐 **Secure Login & Transaction Flow**  
+- **Secure Login & Transaction Flow**  
   Encrypted, user-friendly authentication and transaction workflows.
 
-- 📊 **Personal Budget Tracking Dashboard**  
+-  **Personal Budget Tracking Dashboard**  
   Real-time budgeting tools with categorized spending and savings insights.
 
-- 📈 **Interactive Charts & Insights**  
+-  **Interactive Charts & Insights**  
   Visualize income, expenses, and trends with responsive, interactive charts.
 
-- 🔗 **Wallet Integration / Transaction History (DeFi Scope)**  
+- **Wallet Integration / Transaction History (DeFi Scope)**  
   Seamless crypto wallet integration and detailed transaction history tracking.
 
 ---
@@ -50,15 +50,4 @@ To build a functional and aesthetically pleasing financial web application with:
 - Protection against common vulnerabilities (XSS, CSRF, etc.)  
 - Privacy-conscious user flows
 
----
-
-## 🚀 Tech Stack (Optional Section)
-> Include if you'd like to highlight tools used.
-
-- Frontend: React / Next.js  
-- Styling: Tailwind CSS  
-- Charts: Chart.js / Recharts  
-- DeFi Integration: Web3.js / Ethers.js
-
----
 
